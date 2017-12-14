@@ -706,4 +706,22 @@
 	"japanese": "Lv100 ゼノ・コキュートス",
 	"room": "lvl100xenococytus",
 	"image": "/assets/raids/BattleRaid_Xeno_Cocytus_Raid.png"
-}]
+},
+{
+	"english": "Lvl 30 Female Titan",
+	"japanese": "Lv30 女型の巨人",
+	"room": "lvl30femaletitan",
+	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Extreme.png"
+},
+{
+	"english": "Lvl 50 Female Titan",
+	"japanese": "Lv50 女型の巨人",
+	"room": "lvl50femaletitan",
+	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_ExtremePlus.png"
+},
+{
+	"english": "Lvl 60 Attack Titan",
+	"japanese": "Lv60 進撃の巨人",
+	"room": "lvl60attacktitan",
+	"image": "/assets/raids/BBattleRaid_Titanic_Yeager_Raid_Very_Hard.png"
+}]	
