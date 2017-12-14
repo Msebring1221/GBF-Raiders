@@ -711,17 +711,17 @@
 	"english": "Lvl 30 Female Titan",
 	"japanese": "Lv30 女型の巨人",
 	"room": "lvl30femaletitan",
-	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Extreme.png"
+	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Very_Hard.png"
 },
 {
 	"english": "Lvl 50 Female Titan",
 	"japanese": "Lv50 女型の巨人",
 	"room": "lvl50femaletitan",
-	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_ExtremePlus.png"
+	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Extreme.png"
 },
 {
 	"english": "Lvl 60 Attack Titan",
 	"japanese": "Lv60 進撃の巨人",
 	"room": "lvl60attacktitan",
-	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Very_Hard.png"
-}]	
+	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_ExtremePlus.png"
+}]
