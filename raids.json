@@ -672,8 +672,8 @@
 	"image": "/assets/raids/BattleRaid_Volcanrio_ExtremePlus.png"
 },
 {
-	"english": "Lvl 50 Female Titan",
-	"japanese": "Lv50 女型の巨人",
+	"english": "Lvl 90 Sethlans",
+	"japanese": "Lv90 セスランス",
 	"room": "lvl90sethlans",
 	"image": "/assets/raids/BattleRaid_Sethlans_Nightmare90.png"
 },
@@ -706,22 +706,4 @@
 	"japanese": "Lv100 ゼノ・コキュートス",
 	"room": "lvl100xenococytus",
 	"image": "/assets/raids/BattleRaid_Xeno_Cocytus_Raid.png"
-},
-{
-	"english": "Lvl 30 Female Titan",
-	"japanese": "Lv30 女型の巨人",
-	"room": "lvl30femaletitan",
-	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Very_Hard.png"
-},
-{
-	"english": "Lvl 50 Female Titan",
-	"japanese": "Lv50 女型の巨人",
-	"room": "lvl50femaletitan",
-	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_Extreme.png"
-},
-{
-	"english": "Lvl 60 Attack Titan",
-	"japanese": "Lv60 進撃の巨人",
-	"room": "lvl60attacktitan",
-	"image": "/assets/raids/BattleRaid_Titanic_Yeager_Raid_ExtremePlus.png"
 }]
